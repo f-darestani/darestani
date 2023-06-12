@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fatemeh darestani
+- 👋 Hi, I’m fatemeh darestani
 - 👀 I am interested in programming and research work
 - 📫 darestanyfatemeh@gmail.com
 <!---
